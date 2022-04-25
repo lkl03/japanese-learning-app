@@ -1,6 +1,6 @@
 # Japanese Learning App
 
-This a NextJS App where you can search for different worldwide cities (from a local JSON file) and see their daily weather using the OpenWeatherMap API. In this case the styling (SASS) was provided.
+This is a simple app created with ReactJS that emulates a quiz game where you can match the japanese symbol with its meaning in English. Styled with TailwindCSS.
 
 
 ## Links
